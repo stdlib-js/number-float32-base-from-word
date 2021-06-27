@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float32-base-from-word",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a single-precision floating-point number from an unsigned integer corresponding to an IEEE 754 binary representation.",
   "license": "Apache-2.0",
   "author": {
