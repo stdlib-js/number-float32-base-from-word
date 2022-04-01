@@ -1,0 +1,47 @@
+{
+  "name": "@stdlib/number-float32-base-from-word",
+  "version": "0.0.0",
+  "description": "Create a single-precision floating-point number from an unsigned integer corresponding to an IEEE 754 binary representation.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/number-float32-base-from-word.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "base",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "types",
+    "type",
+    "convert",
+    "floating-point",
+    "float32",
+    "single",
+    "float",
+    "from",
+    "bits",
+    "uint32",
+    "word",
+    "unsigned",
+    "32-bit",
+    "integer",
+    "literal",
+    "number",
+    "binary",
+    "ieee754"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
