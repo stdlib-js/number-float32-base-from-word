@@ -33,16 +33,16 @@ var fromWordf = require( './../../dist' );
 
 // FIXTURES //
 
-var negativeLarge = require( './../..xtures/julia/negative_large.json' );
-var negativeNormal = require( './../..xtures/julia/negative_normal.json' );
-var negativeSmall = require( './../..xtures/julia/negative_small.json' );
-var negativeSubnormal = require( './../..xtures/julia/negative_subnormal.json' );
-var negativeTiny = require( './../..xtures/julia/negative_tiny.json' );
-var positiveLarge = require( './../..xtures/julia/positive_large.json' );
-var positiveNormal = require( './../..xtures/julia/positive_normal.json' );
-var positiveSmall = require( './../..xtures/julia/positive_small.json' );
-var positiveSubnormal = require( './../..xtures/julia/positive_subnormal.json' );
-var positiveTiny = require( './../..xtures/julia/positive_tiny.json' );
+var negativeLarge = require( './../fixtures/julia/negative_large.json' );
+var negativeNormal = require( './../fixtures/julia/negative_normal.json' );
+var negativeSmall = require( './../fixtures/julia/negative_small.json' );
+var negativeSubnormal = require( './../fixtures/julia/negative_subnormal.json' );
+var negativeTiny = require( './../fixtures/julia/negative_tiny.json' );
+var positiveLarge = require( './../fixtures/julia/positive_large.json' );
+var positiveNormal = require( './../fixtures/julia/positive_normal.json' );
+var positiveSmall = require( './../fixtures/julia/positive_small.json' );
+var positiveSubnormal = require( './../fixtures/julia/positive_subnormal.json' );
+var positiveTiny = require( './../fixtures/julia/positive_tiny.json' );
 
 
 // TESTS //
