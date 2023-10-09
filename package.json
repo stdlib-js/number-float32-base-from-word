@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float32-base-from-word",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a single-precision floating-point number from an unsigned integer corresponding to an IEEE 754 binary representation.",
   "license": "Apache-2.0",
   "author": {
@@ -40,9 +40,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-float32": "^0.1.0",
-    "@stdlib/array-uint32": "^0.1.0",
-    "@stdlib/number-float32-base-to-word": "^0.1.0",
+    "@stdlib/array-float32": "^0.1.1",
+    "@stdlib/array-uint32": "^0.1.1",
+    "@stdlib/number-float32-base-to-word": "^0.1.1",
     "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {
