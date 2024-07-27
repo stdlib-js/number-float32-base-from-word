@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fromWordf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@esm/index.mjs';
+import fromWordf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@v0.2.2-esm/index.mjs';
 ```
 
 #### fromWordf( word )
@@ -91,7 +91,7 @@ var f32 = fromWordf( word ); // when printed, implicitly promoted to float64
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import MAX_UINT32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@esm/index.mjs';
-import fromWordf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@esm/index.mjs';
+import fromWordf from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float32-base-from-word@v0.2.2-esm/index.mjs';
 
 var word;
 var f32;
