@@ -43,7 +43,8 @@
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/number-float32-base-to-word": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/constants-float32-ninf": "^0.2.2",
