@@ -43,7 +43,7 @@
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/number-float32-base-to-word": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/constants-float32-ninf": "^0.2.2",
@@ -54,6 +54,7 @@
     "@stdlib/math-base-assert-is-positive-zero": "^0.2.2",
     "@stdlib/math-base-special-round": "^0.3.0",
     "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/string-format": "^0.2.2",
     "@stdlib/string-repeat": "^0.2.2",
     "@stdlib/string-right-pad": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
